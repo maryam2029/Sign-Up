@@ -1,4 +1,4 @@
-<h1 align="center">📝 Sign Up Page – React + Tailwind CSS</h1>
+<h1 align="center">📝 Sign Up Page – React + Tailwind CSS + Vite </h1>
 
 <p align="center">
   A modern and responsive <strong>Sign Up Page</strong> built using 
