@@ -37,18 +37,6 @@
 
 ---
 
-<h2>📂 Project Structure</h2>
-
-<pre>
-src/
- ├── components/
- ├── App.jsx
- ├── main.jsx
- └── index.css
-</pre>
-
----
-
 <h2>📥 Installation & Setup</h2>
 
 <p><strong>Clone the repository:</strong></p>
